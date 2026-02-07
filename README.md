@@ -1,1 +1,4 @@
 # Vrinda-Store-Sales-Performance-2022
+(Excel | Business Intelligence | Retail Analytics)
+Vrinda Store lacked a consolidated view of its annual sales performance and customer purchasing behavior across multiple online sales channels and regions. The objective of this project was to analyze 2022 sales data to identify revenue trends, high-performing regions, customer demographics, and order efficiency.By transforming raw transactional data into interactive visual dashboards, the business aimed to understand who their customers are, where sales are coming from, and how sales performance varies across time and channels to support strategic marketing and inventory decisions.
+<img width="1666" height="813" alt="Report" src="https://github.com/user-attachments/assets/143973bc-285f-4333-955c-c753b07afa8b" />
